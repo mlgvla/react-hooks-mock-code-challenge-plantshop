@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Monica Leaf Fig",
+      "image": "./images/fiddle-leaf-fig.jpg",
+      "price": 75.23,
+      "id": 8
     }
   ]
 }
